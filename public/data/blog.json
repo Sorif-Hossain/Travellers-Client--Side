@@ -1,0 +1,19 @@
+[{
+		"id": "111a",
+		"tittle": "Award-Winning Ski Resorts",
+		"description": "Utah's capital, Salt Lake City, is a modern and unforgettable spot located at the base of some of the country’s most spectacular mountains.",
+		"img": "https://i.ibb.co/Y3m7M7Z/patrick-t-kindt-Oa-Ra-Te-X0kak-unsplash.jpg"
+	},
+	{
+		"id": "222b",
+		"tittle": "COVID-19 Airport Policies",
+		"description": "Airports around the world have been affected by COVID-19 and have implemented new policies and procedures to help protect travelers and employees.",
+		"img": "https://i.ibb.co/ydKmYN9/bernardo-ferrari-x-W6-IPVJB9r-A-unsplash.jpg"
+	},
+	{
+		"id": "333b",
+		"tittle": "The Best Hotels for 2021",
+		"description": "Check out these award-winning accommodations around the country to get inspired for your next trip. All-Inclusive and Boutique Luxury Hotels.",
+		"img": "https://i.ibb.co/pJNvpQp/valeriia-bugaiova-p-PHge-Hz1uk-unsplash.jpg"
+	}
+]
